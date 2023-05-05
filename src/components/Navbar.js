@@ -13,7 +13,6 @@ export const Navbar = () => {
             <i className="fas fa-bars"></i>
           </button>
         </div>
-        {/* <!-- left this comment on purpose --> */}
 
         <PageLinks />
 
